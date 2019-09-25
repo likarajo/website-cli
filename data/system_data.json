@@ -5,7 +5,7 @@
 	"proficient": "<li>Java</li><li>HTML/CSS</li><li>Bash</li><li>SQL</li></ul>",
 	"familiar": "<ul><li>Scala</li><li>Python</li></ul>",
 	"learning": "<ul><li>System Designing</li></ul>",
-	"root": "<p>about.txt &nbsp&nbsp <span class='dir'>projects</span> &nbsp&nbsp <span class='dir'>skills</span><br>contact.txt &nbsp&nbsp resume.txt<br></p>",
+	"root": "<p>about.txt &nbsp&nbsp projects.txt &nbsp&nbsp <span class='dir'>skills</span><br>contact.txt &nbsp&nbsp resume.txt<br></p>",
 	"projects": "<a class='blue' target='_blank' href='https://likarajo.github.io/Projects'>View My Projects</a>",
 	"skills": "<p>proficient.txt &nbsp&nbsp familiar.txt <br>learning.txt </p>",
 	"help": "<div> <ul> <li><strong>path</strong> - display current directory</li><li><strong>cat FILENAME</strong> - display FILENAME in window</li><li><strong>cd DIRECTORY</strong> - move into DIRECTORY or just cd to return to root</li><li><strong>ls</strong> - show files in current directory</li><li><strong>history</strong> - see your command history</li><li><strong>clear</strong> - clear current window</ul></div>"
