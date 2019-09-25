@@ -8,14 +8,13 @@ const errors = {
 }
 
 const struct = {
-  root: ['about', 'resume', 'contact', 'talks'],
-  projects: ['nodemessage', 'map', 'dotify', 'slack_automation'],
+  root: ['about', 'resume', 'contact'],
   skills: ['proficient', 'familiar', 'learning']
 }
 
 const commands = {}
 let systemData = {}
-const rootPath = 'users/codebytere/root'
+const rootPath = 'users/likarajo/root'
 
 const getDirectory = () => localStorage.directory
 const setDirectory = (dir) => { localStorage.directory = dir }
